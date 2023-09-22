@@ -1,19 +1,9 @@
-background: black;
+      body{
+        background: black;
         background-size: cover;
         font-family: 'Lucida Console', sans-serif; 
-.container{
-  display: inline-block;
-}
-.typed-out{
-  overflow: hidden;
-  border-right: .15em solid orange;
-  white-space: nowrap;
-  animation: 
-    typing 1s forwards;
-  font-size: 1.6rem;
-  width: 0;
-}
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
+     }
+      h1{
+        color: white;
+      }
+  
